@@ -8,5 +8,4 @@
         Authorization:
         `Client-ID ${API_KEY}`
     }
-
   });
